@@ -1,11 +1,11 @@
 TEAM PLAYLIST
 =============
 
-Song 1: Bohemian Rhapsody - Queen
-Song 2: Hotel California - Eagles
-Song 3: Sweet Child O' Mine - Guns N' Roses
-Song 4: Imagine - John Lennon
-Song 5: Billie Jean - Michael Jackson
+Song 1: American Woman - The Guess Who
+Song 2: Harvest Moon - Neil Young
+Song 3: Sweet Jane - Cowboy Junkies
+Song 4: Lost Together - Blue Rodeo
+Song 5: Hard Sun - Gordon Peterson
 
 Total songs: 5
 Last updated: Monday
